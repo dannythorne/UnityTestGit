@@ -1,3 +1,3 @@
 
-Testing Git with Unity project.
+Testing Git with Unity project m2.
 
